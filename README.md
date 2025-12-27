@@ -29,7 +29,7 @@ My goal is to bridge the gap between enterprise data processing and modern distr
 
 ### 🔭 Technical Roadmap
 I am currently bridging the gap between proprietary integration tools and open-source engineering:
-* **Logic:** Mastering Data Structures and algprithms in Java.
+* **Logic:** Mastering Data Structures and algorithms in Java.
 * **Architecture:** Implementing **Event-Driven Architecture** using Spring Boot.
 * **Scale:** Understanding database indexing, caching (Redis), and system scalability.
 * **DevOps:** Learning to containerize applications with **Docker** and automate workflows using **GitHub Actions (CI/CD)**.
